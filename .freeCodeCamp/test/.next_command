@@ -1,3 +1,6 @@
 ./fortune.sh question?
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+help [[ expression ]]
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
